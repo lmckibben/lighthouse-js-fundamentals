@@ -25,5 +25,3 @@ const chooseStations = function (stations) {
 }
 
 console.log(chooseStations(stations));
-
-
