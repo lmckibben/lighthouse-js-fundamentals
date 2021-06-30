@@ -16,7 +16,7 @@ const finalPosition = function (moves) {
       x -= 1
     }else if(move === "north"){
       y += 1
-    }else if(move === "south"){
+    }else{
       y -= 1
     }
   }

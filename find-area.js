@@ -31,12 +31,12 @@ function calculateCircleArea(radius){
     
     return undefined
  
- }else{
+  }else{
   
-  let circleArea = Math.PI * Math.pow(radius, 2)
+    let circleArea = Math.PI * Math.pow(radius, 2)
 
-  return circleArea
- }
+    return circleArea
+  }
 }
 
 console.log(calculateRectangleArea(10, 5));     // should print 50
